@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "retelegrambot",
+    "staging": "retelegrambot"
+  }
+}
